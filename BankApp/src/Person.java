@@ -47,9 +47,13 @@ public class Person {
     public void setCity(String city) {
         this.city = city;
     }
-    @Override
-    public String toString() {
-        return "Name: " +  name + ", Last Name: " + lastName + ", Address: " +
-                address + ", Phone: " + phone + ", City: " + city;
+
+    public void Info(){
+        System.out.println("Name: " + this.name);
+        System.out.println("Last Name: " + this.lastName);
+        System.out.println("Address: " + this.address);
+        System.out.println("Phone: " + this.phone);
+        System.out.println("City: " + this.city);
     }
+
 }
