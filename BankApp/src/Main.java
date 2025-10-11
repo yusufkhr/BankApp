@@ -5,6 +5,5 @@ public class Main {
         System.out.println("Sum: " + sum.calculate(10, 20));
 
         System.out.println();
-
     }
 }
