@@ -1,1 +1,1 @@
-$Git$ $ve$ $GitHub$ $da$ $kendimi$ $geliştirmek$ $için$ $bir$ $repo.$
+Git ve GitHub da kendimi geliştirmek için bir repo.
